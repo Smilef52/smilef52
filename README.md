@@ -1,8 +1,7 @@
 ## 自我介绍
 
 | 作业所属课程| https://edu.cnblogs.com/campus/gdgy/Networkengineering1834|
-|---|---|---|
-
+|----|----|
 |作业要求|https://edu.cnblogs.com/campus/gdgy/Networkengineering1834/homework/11147|
 
 |作业目标|学习 Git 和 GitHub,以及使用 Markdown 编写自我介绍,软工5问和预期收获|
