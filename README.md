@@ -1,16 +1,49 @@
-### Hi there 👋
+## 自我介绍
 
-<!--
-**Smilef52/smilef52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 作业所属课程| https://edu.cnblogs.com/campus/gdgy/Networkengineering1834|
+|---|---|---|
 
-Here are some ideas to get you started:
+|作业要求|https://edu.cnblogs.com/campus/gdgy/Networkengineering1834/homework/11147|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|作业目标|学习 Git 和 GitHub,以及使用 Markdown 编写自我介绍,软工5问和预期收获|
+
+
+
+##### 自我介绍
+
+* 姓名: 郑旭朋
+
+* 学校: 广东工业大学
+
+* 专业班级: 18级网络工程3班
+
+* 兴趣爱好: 运动,听音乐,看书
+
+* 个人经历: 大一下学期成为Night'sWatch团队成员,学习前端开发
+
+* 技术方向: 前端开放
+
+* 项目经历: 前后端Web开发,小程序开发
+
+##### 软工5问:
+
+1. 软件从设计到开发到上线的流程是怎样?
+
+2. 软件的设计和开发过程中怎么保证其质量?
+
+3. 怎样评价一个软件的质量?
+
+4. 开发一个软件需要几种技术?
+
+5. 软件应该怎样维护?
+
+##### 预期收获
+
+1. 熟悉掌握软件的设计开发和上线
+
+2. 扩展自己的计算机开发技术的知识面
+
+3. 学会评估软件的质量
+
+4. 学会维护软件
+
