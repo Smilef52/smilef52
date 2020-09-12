@@ -1,4 +1,3 @@
-## 自我介绍
 
 | 作业所属课程| https://edu.cnblogs.com/campus/gdgy/Networkengineering1834|
 |----|----|
